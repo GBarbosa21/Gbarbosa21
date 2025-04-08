@@ -18,9 +18,13 @@
 
 - Possuo conhecimentos também em <strong>Bootstrap</strong>, <strong>Pandas</strong>, <strong>Pytorch</strong>, <strong>Postman</strong> e <strong>FastAPI</strong>
 
+<br>
+
 <div align="center" style="padding: 25px">
-<a href='https://blinkies.cafe' target='_blank'><img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGx3bmpkNmw3OG5iNDg3cWRmbzBtbzJpbHV0aHBsY3VjZDczNW15aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZTJtagVsDI9WbnzMrR/giphy.gif'></a>
+<a href='https://blinkies.cafe' target='_blank'><img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGx3bmpkNmw3OG5iNDg3cWRmbzBtbzJpbHV0aHBsY3VjZDczNW15aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZTJtagVsDI9WbnzMrR/giphy.gif' style="padding-bottom:30px"></a>
 </div>
+
+<br><br>
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GBarbosa21&layout=donut&theme=tokyonight)](https://github.com/GBarbosa21/github-readme-stats)
 
