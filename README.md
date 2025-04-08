@@ -1,6 +1,6 @@
 ## <p align="center">Olá👋! Eu sou o Gustavo Barbosa! </p>
 
-<h2 align="center" style="border-bottom: 1px solid white; padding-bottom:20px">"Vivendo e aprendendo"</h2><br>
+<h2 align="center" style="padding-bottom:20px">"Vivendo e aprendendo"</h2><br>
 
 <p align="center" style="padding-top: 20px">
 <a href='https://blinkies.cafe' target='_blank'><img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p4eTN0NDFtNmpuNzNpeGc0ODJyM2lvYm80eXEwdjRwcnA1ZWE1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkLXttVL7hPXR2o2EC/giphy.gif'></a>
